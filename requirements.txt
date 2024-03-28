@@ -1,10 +1,4 @@
-random
-requests
-telebot
-datetime
-types
-user_agent
-generate_user_agent
-flask
-os
-logging
+BOT_TOKEN = "7058880196:AAEzbU7ang-b91mhIv0aq_-4ZMehynB1Ts8"
+APP_URL = "https://mikalwkkwkqkq.herokuapp.com/" + BOT_TOKEN
+sudo_user = "@usaByte"
+sudo_id = 7079472831
